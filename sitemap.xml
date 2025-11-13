@@ -3,9 +3,6 @@
 		<loc>https://tekmeswes.ga/page2.html</loc>
 	</url>
 	<url>
-		<loc>https://tekmeswes.ga/page3.html</loc>
-	</url>
-	<url>
 		<loc>https://tekmeswes.ga/eger.html</loc>
 	</url>
 	<url>
@@ -13,5 +10,8 @@
 	</url>
 	<url>
 		<loc>https://tekmeswes.ga/Accueil.html</loc>
+	</url>
+	<url>
+		<loc>https://tekmeswes.ga/Market.html</loc>
 	</url>
 </urlset>
