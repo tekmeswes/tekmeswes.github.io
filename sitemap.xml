@@ -1,14 +1,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://tekmeswes.ga/index.html</loc>
-	</url>
-	<url>
 		<loc>https://tekmeswes.ga/page2.html</loc>
 	</url>
 	<url>
 		<loc>https://tekmeswes.ga/page3.html</loc>
 	</url>
 	<url>
-		<loc>https://tekmeswes.ga/Nos Marques.html</loc>
+		<loc>https://tekmeswes.ga/eger.html</loc>
+	</url>
+	<url>
+		<loc>https://tekmeswes.ga/Nos marques.html</loc>
+	</url>
+	<url>
+		<loc>https://tekmeswes.ga/Accueil.html</loc>
 	</url>
 </urlset>
