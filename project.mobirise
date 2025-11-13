@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tekMesWes",
-    "currentPage": "page2.html",
+    "currentPage": "Accueil.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -73,7 +73,7 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "publishEditFolder": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "dppsSwitcher": true,
     "spellingSwitch": true,
     "site_lang": "en",
